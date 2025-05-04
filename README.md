@@ -1,14 +1,14 @@
 # Hi there 👋, I'm Ajithkumar S!
 
-## 🚀 About Me
-- 🔭 I’m currently working as a **Cloud Infra Engineer** specializing in **OpenShift**, **Kubernetes**, and **Telecom Cloud** environments.
-- 🌱 I’m currently learning advanced **DevOps** practices and enhancing my scripting skills.
-- 👯 I’m looking to collaborate on **Cloud-native** and **SRE** projects.
-- 💬 Ask me about **OpenShift**, **Kubernetes**, **Container Security**, **CI/CD Pipelines**, and **Cloud Infrastructure**.
-- 📫 How to reach me: rlaajith003@gmail.com
-- ⚡ Fun fact: I love simplifying complex cloud concepts for everyone!
+## About Me
+- I’m currently working as a **Cloud Infra Engineer** specializing in **OpenShift**, **Kubernetes**, and **Telecom Cloud** environments.
+- I’m currently learning advanced **DevOps** practices and enhancing my scripting skills.
+- I’m looking to collaborate on **Cloud-native** and **SRE** projects.
+- Ask me about **OpenShift**, **Kubernetes**, **Container Security**, **CI/CD Pipelines**, and **Cloud Infrastructure**.
+- How to reach me: rlaajith003@gmail.com
+- Fun fact: I love simplifying complex cloud concepts for everyone!
 
-## 🛠️ Skills
+## Skills
 - **Container Platforms**: OpenShift, Kubernetes, Docker
 - **DevOps Tools**: Jenkins, Bitbucket, Git, ArgoCD
 - **Monitoring Tools**: Prometheus, Grafana, Splunk
@@ -16,10 +16,6 @@
 - **Automation & Scripting**: Bash, YAML, Python (Learning)
 - **Others**: Linux Administration, OpenStack, VMware
 
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AjisGitHub&show_icons=true&theme=radical" alt="Ajithkumar's GitHub stats" />
-</p>
 
 ## 🌐 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/ajithkumar-subramanian-8236311a6/)
